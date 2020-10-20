@@ -10,17 +10,17 @@ git clone git@github.com:uzzielperez/particlesilo.git
 
 cd particlesilo
 git remote add upstream git@github.com:cms-exotica-diphotons/diphoton-analysis.git
-git checkout master
-git pull upstream master # pull latest from master
+git checkout main
+git pull upstream main # pull latest from main
  
 # check diff
-git diff -U0 --color remotes/upstream/master
+git diff -U0 --color remotes/upstream/main
  
 # to reset to main 
-git reset --hard upstream/master
+git reset --hard upstream/main
 
-# to push changes to master 
-git push origin master
+# to push changes to main 
+git push origin main
 
 ```
 When ready, submit a Pull Request. :) 
