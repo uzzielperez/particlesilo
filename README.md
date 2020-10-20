@@ -29,6 +29,6 @@ When ready, submit a Pull Request. :)
 
 To contribute Materials, submit a PullRequest to [particleSiloMaterials](https://github.com/particlesilo/particleSiloMaterials), submit an issue, or request access to edit [google doc](https://docs.google.com/document/d/1AovmDnv4CGlxgUzkjo2h-qfyWXPYA-t1lLEsEsLvfmU/edit).
 
- 
+To contribute to the Website, see [main GitHub repo](https://github.com/manyaagarwal/particlesilo). 
 
 
